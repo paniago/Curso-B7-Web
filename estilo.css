@@ -1,0 +1,11 @@
+*{box-sizing: border-box;}
+body {margin: 0px;}
+header {color: goldenrod;}
+#Estrela {
+    width: 400px;
+    height: 400px;
+    border: lightcoral 5px solid;
+    padding: 20px;
+    background-image: url("imagens/Foto\ de\ Perfil\ 510\ x\ 510\ Estrela\ do\ mar\ Transparente.png");
+    background-position: bottom right;
+} 
